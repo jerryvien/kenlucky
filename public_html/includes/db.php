@@ -1,8 +1,8 @@
 <?php
 $host = "localhost"; // Replace with Hostinger's database host
-$db_name = "ken_group_db"; // Replace with your Hostinger database name
-$username = "your_username"; // Your Hostinger database username
-$password = "your_password"; // Your Hostinger database password
+$db_name = "lucky2024"; // Replace with your Hostinger database name
+$username = "u737908269_root"; // Your Hostinger database username
+$password = "$1Rv1r@dmInS"; // Your Hostinger database password
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$db_name", $username, $password);
