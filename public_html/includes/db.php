@@ -1,6 +1,6 @@
 <?php
 $host = "localhost"; // Replace with Hostinger's database host
-$db_name = "lucky2024"; // Replace with your Hostinger database name
+$db_name = "u737908269_lucky2024"; // Replace with your Hostinger database name
 $username = "u737908269_root"; // Your Hostinger database username
 $password = "$1Rv1r@dmInS"; // Your Hostinger database password
 
